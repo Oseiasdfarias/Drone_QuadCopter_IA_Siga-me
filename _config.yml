@@ -1,5 +1,5 @@
-title: jekyll-rtd-theme
-description: Just another documentation theme compatible with GitHub Pages
+title: Drone QuadCopter IA Siga-Me
+description: Montar um Drone Quadcopter utilizando como base o Controlador de voo de hardware open-source Pixhawk e o firmware open-source PX4 Autopilot.
 
 theme: null
 
