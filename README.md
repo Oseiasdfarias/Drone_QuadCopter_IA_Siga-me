@@ -8,7 +8,7 @@ Além disso, utilizar a Estação Terrestre QGC - QGroundControl para controlar 
 > 2° Desenvolver um algorítimo Siga-me usando Visão Computacional e Inteligência Artificial com OpenCV e usando o protocolo de comunicação MAVLINK é o framework MAVSDK Python.
 
 <h1 align="center">
-  <img src="utils/"/>
+  <img src="/assets/images/em_construc.gif"/>
 </h1>
 
 #### The license
