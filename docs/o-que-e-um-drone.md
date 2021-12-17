@@ -11,7 +11,7 @@ sort: 1
 
 <p>
 
-<br>Um QuadRotor ou Quadricóptero tem como característica  possuir quatro moteres capazes de gerar empuxo atrases de hélices fixadas em cada motor, de modo a impulsionar o veículo verticalmente.<br><br>
+<br>Um QuadRotor ou Quadricóptero tem como característica  possuir quatro moteres capazes de gerar empuxo através de hélices fixadas em cada motor, de modo a impulsionar o veículo verticalmente.<br><br>
 
 </p>
 
