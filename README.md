@@ -1,5 +1,5 @@
 <h1 align="center">
-  Projeto - Drone QuadCopter IA | Siga-Me
+  Projeto - Drone Quadricóptero IA | Siga-Me
 </h1>
 
 <h3 align="center">
@@ -18,7 +18,7 @@
 </h2>
 
 <p>
-  1° Montar um Drone Quadcopter utilizando como base o Controlador de voo de hardware open-source Pixhawk e o firmware open-source PX4 Autopilot. Além disso, utilizar a Estação Terrestre QGC - QGroundControl para controlar o Drone pelo Notebook, Celular ou Tablet.<br><br>
+  1° Montar um Drone Quadricóptero utilizando como base o Controlador de voo de hardware open-source Pixhawk e o firmware open-source PX4 Autopilot. Além disso, utilizar a Estação Terrestre QGC - QGroundControl para controlar o Drone pelo Notebook, Celular ou Tablet.<br><br>
 
 </p>
 

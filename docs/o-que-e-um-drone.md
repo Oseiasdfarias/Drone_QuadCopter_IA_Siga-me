@@ -2,7 +2,7 @@
 sort: 1
 ---
 
-# O que é um Drone QuadCopter?
+# O que é um Drone Quadricóptero?
 ### Entendendo o conceito por trás de um QuadRotor!<br><br>
 
 <h1 align="center">
