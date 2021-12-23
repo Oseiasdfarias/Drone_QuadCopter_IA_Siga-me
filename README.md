@@ -2,6 +2,8 @@
   Projeto - Drone QuadCopter IA | Siga-Me
 </h1>
 
+<link rel="stylesheet" href="cunst_css/read_p.css">
+
 <h3 align="center">
   Universidade Federal do Pará <br>
   Campus Universitário de Tucuruí <br>
@@ -27,8 +29,8 @@
 
 </p>
 
-
-<h1 align="center">
-  <img src="assets/images/drone_img/drone_banner.jpg"/>
-</h1>
-
+  <div class="column">
+    <img src="assets/images/drone_img/img_01.jpg">
+    <img src="assets/images/drone_img/img_02.jpg">
+    <img src="assets/images/drone_img/img_03.jpg">
+  </div>
