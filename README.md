@@ -1,5 +1,5 @@
 <h1 align="center">
-  Projeto - Drone Quadricóptero IA | Siga-Me
+  Projeto - Drone Quadrotor
 </h1>
 
 <h3 align="center">
@@ -14,17 +14,13 @@
 
 
 <h2>
-  Objetivo
+  Descrição
 </h2>
 
 <p>
-  1° Montar um Drone Quadricóptero utilizando como base o Controlador de voo de hardware open-source Pixhawk e o firmware open-source PX4 Autopilot. Além disso, utilizar a Estação Terrestre QGC - QGroundControl para controlar o Drone pelo Notebook, Celular ou Tablet.<br><br>
-
-</p>
-
-<p>
-  2° Desenvolver um algorítimo Siga-me usando Visão Computacional e Inteligência Artificial com OpenCV e usando o protocolo de comunicação MAVLINK é o framework MAVSDK Python.<br><br>
-
+  Montar um Drone Quadrotor utilizando como base o Controlador de voo de hardware open-source Pixhawk e o firmware open-source PX4 Autopilot. Além disso, utilizar a Estação Terrestre QGC - QGroundControl para controlar o Drone pelo Notebook, Celular ou Tablet.<br><br>
+  
+  Desenvolver um algorítimo usando o protocolo de comunicação MAVLINK é o framework MAVSDK Python para voos autônomos.<br><br>
 </p>
 
   <div class="column">

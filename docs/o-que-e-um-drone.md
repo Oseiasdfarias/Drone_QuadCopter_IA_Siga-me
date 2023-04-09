@@ -2,7 +2,7 @@
 sort: 1
 ---
 
-# O que é um Drone Quadricóptero?
+# O que é um Drone QuadRotor?
 ### Entendendo o conceito por trás de um QuadRotor!<br><br>
 
 <h1 align="center">
@@ -11,7 +11,7 @@ sort: 1
 
 <p>
 
-<br>Um QuadRotor ou Quadricóptero tem como característica  possuir quatro moteres capazes de gerar empuxo através de hélices fixadas em cada motor, de modo a impulsionar o veículo verticalmente.<br><br>
+<br>Um QuadRotor ou QuadRotor tem como característica  possuir quatro moteres capazes de gerar empuxo através de hélices fixadas em cada motor, de modo a impulsionar o veículo verticalmente.<br><br>
 
 </p>
 
